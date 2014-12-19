@@ -14,3 +14,4 @@ NoDemon (npm install nodemon)
 #Setting up Python
 apt-get install pip
 pip install praw
+pip install zerorpc
